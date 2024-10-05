@@ -29,7 +29,7 @@ def is_valid_secret_key(secret_key):
 
 st.markdown("""
     <h1 style='text-align: center;'>
-        ETC <span style='color: #FFFF99;'>Receiver</span> Application
+        ETC <span style='color: #B3EBF2;'>Receiver</span> Application
     </h1>
     """,
             unsafe_allow_html=True)
